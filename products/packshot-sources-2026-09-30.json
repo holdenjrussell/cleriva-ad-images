@@ -1,0 +1,47 @@
+[
+  {
+    "asset": "novaflow-9.png",
+    "source": "https://cdn.shopify.com/s/files/1/0912/3738/4503/files/Cleriva_Content_68_c7389c73-c864-4203-942e-03c75efddf38.png?v=1769907962",
+    "product": "novaflow",
+    "position": 9,
+    "file": "novaflow-black-pack.png",
+    "review": "First-party product and packaging; intrinsic packaging claims remain pending owner review",
+    "read_date": "2026-09-30"
+  },
+  {
+    "asset": "novaflow-10.png",
+    "source": "https://cdn.shopify.com/s/files/1/0912/3738/4503/files/Red_Product_Box_1_0908ff51-ef5f-41e8-8c7a-cde6a0a23ab9.png?v=1769907976",
+    "product": "novaflow",
+    "position": 10,
+    "file": "novaflow-red-pack.png",
+    "review": "First-party product and packaging; intrinsic packaging claims remain pending owner review",
+    "read_date": "2026-09-30"
+  },
+  {
+    "asset": "novaflow-11.png",
+    "source": "https://cdn.shopify.com/s/files/1/0912/3738/4503/files/White_Product_Box_bccfdcbe-4a2d-4f21-a1ae-a310acb77fab.png?v=1769907987",
+    "product": "novaflow",
+    "position": 11,
+    "file": "novaflow-white-pack.png",
+    "review": "First-party product and packaging; intrinsic packaging claims remain pending owner review",
+    "read_date": "2026-09-30"
+  },
+  {
+    "asset": "novaflow-2-0-dual-light-sinus-clearing-device-8.png",
+    "source": "https://cdn.shopify.com/s/files/1/0912/3738/4503/files/ClerivaContent_21_7f43e004-6eda-4259-b87e-075a02be4fe1.png?v=1784418517",
+    "product": "novaflow-2-0-dual-light-sinus-clearing-device",
+    "position": 8,
+    "file": "novaflow-2-0-black-pack.png",
+    "review": "First-party product and packaging; intrinsic packaging claims remain pending owner review",
+    "read_date": "2026-09-30"
+  },
+  {
+    "asset": "novaflow-2-0-dual-light-sinus-clearing-device-9.png",
+    "source": "https://cdn.shopify.com/s/files/1/0912/3738/4503/files/ClerivaContent_22.png?v=1784418515",
+    "product": "novaflow-2-0-dual-light-sinus-clearing-device",
+    "position": 9,
+    "file": "novaflow-2-0-white-pack.png",
+    "review": "First-party product and packaging; intrinsic packaging claims remain pending owner review",
+    "read_date": "2026-09-30"
+  }
+]
