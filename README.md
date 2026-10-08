@@ -21,6 +21,7 @@ would not show a stranger.
 | `emails/<slug>-<sha8>.png\|jpg` | Rendered screenshots of publicly sent Cleriva emails, content-addressed | ESP render lanes (module: klaviyo) |
 | `previews/<ad_id>.jpg` | Full rendered ad unit (identity header, copy, media/poster, CTA card) per publicly served ad | Ad-preview screenshot lane (module: meta-ads) |
 | `social/<media_id>.jpg` | Normalized cover/poster for a public first-party Cleriva Instagram post (feed, carousel, video, or story frame) | Organic-social visual sync (module: adimages-cdn) |
+| `meta-ads/images/<YYYY>/<MM>/<hash>.<ext>` | Images of launched Cleriva Meta ads (an ad with spend), one per Meta image hash, at most 1 MB; larger ones and every video live in the brand's private Drive archive | Media archive (module: creative-intelligence, media_archive.py; locations in the warehouse's meta_ads.v_creative_media_location) |
 | `deck/` | Hand-curated public deck assets | Manual |
 
 ## Conventions
